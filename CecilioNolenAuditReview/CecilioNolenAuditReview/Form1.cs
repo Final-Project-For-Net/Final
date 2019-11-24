@@ -32,6 +32,7 @@ namespace CecilioNolenAuditReview
 
         private void LoginSubmit_Btn_Click(object sender, EventArgs e)
         {
+            string test = "test";
             string uname = Username_Txt.Text;
             string pass  = Password_Txt.Text;
 
